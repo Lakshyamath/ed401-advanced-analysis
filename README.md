@@ -1,6 +1,6 @@
 # ED 401 — Advanced Analysis course site
 
-A responsive, accessible, single-page course portal built for GitHub Pages. It is inspired by the clear course-hub pattern of UC Berkeley Statistics 153, while using original content and design for ED 401.
+A responsive, accessible, single-page course portal built for GitHub Pages using original content and design for ED 401.
 
 ## Best deployment pattern
 
@@ -47,4 +47,4 @@ Then visit `http://localhost:8000`.
 
 ## Content basis
 
-The supplied ED 401 course document determined course identity, credits, objectives/outcomes, five modules, books, and assessment. The overall information architecture takes inspiration from the UC Berkeley Statistics 153 course hub (Fall 2024), without copying its visual design.
+The supplied ED 401 course document determined course identity, credits, objectives/outcomes, five modules, books, and assessment. 
